@@ -13,7 +13,7 @@ The Contoso-Drive Companion Experience is split into three concepts
 
 * __The Support Portal.__ This application is an example of role specific scenarios for the technician/support person of Contoso-Drive. Typically this is a desktop application and is owned, managed and deployed by the Contoso-Drive company. Visit [this](https://github.com/iot-for-all/contoso-drive-support) repo to see the Support Portal.
 
-* __The Driver App.__ This application represents the device that sends the vehicle's telematics to IoT Central which is subsequently available in the Support Portal. Typically this is a phone acting as a gateway and is run on the driver's mobile phone or an internet accessible device. Visit [this](https://github.com/iot-for-all/contoso-drive-simulation) repo to see the Drive App.
+* __The Driver App.__ This application represents the device that sends the vehicle's telematics to IoT Central which is subsequently available in the Support Portal. Typically this is a phone acting as a gateway and is run on the driver's mobile phone or an internet accessible device. Visit [this](https://github.com/iot-for-all/contoso-drive-simulator) repo to see the Drive App.
 
 * __The IoT Central application(s).__ The main experience to manage the Contoso-Drive devices and admin level tasks for Contoso-Drive. It is typically used by the technician/support person and other privileged persons to perform admin level device management, insights and actions.
 
@@ -83,7 +83,7 @@ This Learning Path should take __40-50 minutes__ to complete.
 
 4. Setup the Contso-Drive Driver application *__(5 mins)__*
 
-   - Use the following repo to setup the [Driver Application](https://github.com/iot-for-all/contoso-drive-simulation)
+   - Use the following repo to setup the [Driver Application](https://github.com/iot-for-all/contoso-drive-simulator)
    - Provide the registration completion information from Step 3
    - Sign into the Driver Application with the account from Step 3 and the app will automatically start simulating/sending data
 
