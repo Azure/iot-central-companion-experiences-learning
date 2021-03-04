@@ -7,7 +7,7 @@ Contoso-Drive is an example codebase and demonstration of an IoT Central Compani
 
 <p align="center"><img width="600px" src="images/hero.png" /></p>
 
-[Watch a video of the Contoso-Drive experience here](https://youtu.be/dO_sEZEgpFM)
+[Watch a video of the Contoso-Drive experience here](https://youtu.be/icILa3Bdc28)
 
 The Contoso-Drive Companion Experience is split into three concepts
 
