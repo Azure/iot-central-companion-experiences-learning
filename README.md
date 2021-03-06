@@ -1,13 +1,14 @@
-# Contoso-Drive Learning Path
-This repo is a Learning Path to walk through how to build and deploy a set of IoT Central applications and IoT Central companion experiences to create an end to end solution for a Fleet management scenario.
+# Companion Experiences Learning
+IoT Central provides various extensibility points allowing you to integrate existing services and applications via it's public REST API as well as it's continuous data export feature. This repo contains Learning Paths for IoT Central Companion Experiences.
 
-## Companion Experience overview
+## Contoso Drive Companion Experience overview
+Watch a 5 minute overview of the experience
+
+[![IoT Central Companion Experience - Contoso Drive](/images/yt_thumb.png)](https://youtu.be/_6woSCJfk4I)
 
 Contoso-Drive is an example codebase and demonstration of an IoT Central Companion Experience. It's a codebase built around Fleet Management scenarios and leverages the Azure IoT Central REST APIs to communicate with the corresponding IoT Central applications.
 
 <p align="center"><img width="600px" src="images/hero.png" /></p>
-
-[Watch a video of the Contoso-Drive experience here](https://youtu.be/icILa3Bdc28)
 
 The Contoso-Drive Companion Experience is split into three concepts
 
