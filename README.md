@@ -1,5 +1,5 @@
 # Companion Experiences Learning
-IoT Central provides various extensibility points allowing you to integrate existing services and applications via it's public REST API as well as it's continuous data export feature. This repo contains Learning Paths for IoT Central Companion Experiences.
+IoT Central provides various extensibility points allowing you to integrate existing services and applications via it's public REST API as well as it's continuous data export feature. This repo contains Learning Paths for IoT Central [Companion Experiences](https://github.com/iot-for-all/iot-central-integration-guide#companion-apps--experiences).
 
 ## Contoso Drive Companion Experience overview
 Watch a 5 minute overview of the experience
