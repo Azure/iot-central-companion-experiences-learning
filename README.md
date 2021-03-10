@@ -6,7 +6,7 @@ Watch a 5 minute overview of the experience
 
 [![IoT Central Companion Experience - Contoso Drive](/images/yt_thumb.png)](https://youtu.be/_6woSCJfk4I)
 
-Contoso-Drive is an example codebase and demonstration of an IoT Central Companion Experience. It's a codebase built around Fleet Management scenarios and leverages the Azure IoT Central REST APIs to communicate with the corresponding IoT Central applications.
+Contoso-Drive is an example codebase and demonstration of an IoT Central companion experience. It's a codebase built around Fleet Management scenarios and leverages the [Azure IoT Central REST APIs](https://docs.microsoft.com/en-us/rest/api/iotcentral/) to communicate with the corresponding IoT Central applications.
 
 <p align="center"><img width="600px" src="images/hero.png" /></p>
 
@@ -57,9 +57,9 @@ This Learning Path should take __40-50 minutes__ to complete.
 
 1. Setup the AAD application *__(15 mins)__*
     
-   Use the following repo to setup the AAD application- [Setting up an AAD application to work with IoT Central](https://github.com/iot-for-all/iotc-aad-setup)
+   Use the following repo to setup the AAD application- [Setting up an AAD application to work with IoT Central](https://github.com/iot-for-all/iot-central-aad-setup)
 
-   Use the following repo to test the AAD application - [Test an AAD application](https://github.com/iot-for-all/iotc-aad-app)
+   Use the following repo to test the AAD application - [Test an AAD application](https://github.com/iot-for-all/iot-central-aad-app)
 
 2. Setup the IoT Central application(s) *__(5 mins each)__*
 
